@@ -19,6 +19,8 @@
 		<ros.library.version>0.0.1-SNAPSHOT</ros.library.version>
 		<mapstruct.version>1.4.1.Final</mapstruct.version>
 		<springdoc-openapi-ui.version>1.5.12</springdoc-openapi-ui.version>
+		<sonar.organization>bvss1994</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<lombok.version>1.18.18</lombok.version>
 	</properties>
 	<dependencies>
